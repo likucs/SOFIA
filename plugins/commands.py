@@ -18,7 +18,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('📀 𝖴𝗉𝖽𝖺𝗍𝖾𝗌', url='https://t.me/+_XSzXv8YpChiMTNl')
+                InlineKeyboardButton('📀 𝖴𝗉𝖽𝖺𝗍𝖾𝗌', url='https://t.me/CLMlinkz')
             ],
             [
                 InlineKeyboardButton('📚 𝖧𝖾𝗅𝗉', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -42,7 +42,7 @@ async def start(client, message):
             InlineKeyboardButton('⚙️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😎 ᴀʙᴏᴜᴛ', callback_data='about')
         ],[ 
-            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Rexie_Support')
+            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/CLMlinkz')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -82,7 +82,7 @@ async def start(client, message):
             InlineKeyboardButton('⚙️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😎 ᴀʙᴏᴜᴛ', callback_data='about')
         ],[ 
-            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Rexie_Support')
+            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/CLMlinkt')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -112,9 +112,9 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton("🔰 ɢʀᴏᴜᴘ", url="https://t.me/+B30iFua0Hk8yYWU9"),
-                                              InlineKeyboardButton("🎁 sʜᴀʀᴇ", url="https://t.me/share/url?url=https://t.me/MovieHubOtt") ],
-                                            [ InlineKeyboardButton("🔖 sᴜʙᴛɪᴛʟᴇ", url="https://t.me/subtitle_dl_bot") ] ] )
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton("🔰 ɢʀᴏᴜᴘ", url="https://t.me/Cinimalokham"),
+                                              InlineKeyboardButton("🎁 sʜᴀʀᴇ", url="https://t.me/share/url?url=%20സിനിമ%20ലോകം.²·⁰%20%0A%0Aഏത്%20അർധരാത്രി%20ചോദിച്ചാലും%20പടം%20കിട്ടും,%20ലോകത്തിലെ%20ഒട്ടുമിക്ക%20ഭാഷകളിലുമുള്ള%20സിനിമകളുടെ%20കളക്ഷൻ..%20%0A%0A%20GROUP%20LINK%20%0A@CinimaLokham%0A@CinimaLokham%0A@CinimaLokham") ],
+                                            [ InlineKeyboardButton(' Fɪʟᴇ sɪᴢᴇ 【 {size} 】', callback_data='gxneo') ] ] )
         )
                     
 
