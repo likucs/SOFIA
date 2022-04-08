@@ -10,7 +10,7 @@ from sys import executable
 from aiohttp import ClientSession
 
 import aiofiles
-import speedtest-cli
+import speedtest
 from PIL import Image
 from pyrogram.types import Message
 
