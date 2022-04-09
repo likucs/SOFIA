@@ -39,10 +39,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs➕', url='http://t.me/GTSpidermanrobot?startgroup=true')
         ],[
+            InlineKeyboardButton('🔍 ꜱᴇᴀʀᴄʜ', switch_inline_query_current_chat=query),
+            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/CLMlinkz')
+        ],[
             InlineKeyboardButton('⚙️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😎 ᴀʙᴏᴜᴛ', callback_data='about')
-        ],[ 
-            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/CLMlinkz')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -79,10 +80,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs➕', url='http://t.me/GTSpidermanrobot?startgroup=true')
         ],[
+            InlineKeyboardButton('🔍 ꜱᴇᴀʀᴄʜ', switch_inline_query_current_chat=query),
+            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/CLMlinkz')
+        ],[
             InlineKeyboardButton('⚙️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😎 ᴀʙᴏᴜᴛ', callback_data='about')
-        ],[ 
-            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/CLMlinkt')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
