@@ -400,10 +400,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs➕', url='http://t.me/GTSpidermanrobot?startgroup=true')
             ],[
+            InlineKeyboardButton('🔍 ꜱᴇᴀʀᴄʜ', switch_inline_query_current_chat=query),
+            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/CLMlinkz')
+            ],[
             InlineKeyboardButton('⚙️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😎 ᴀʙᴏᴜᴛ', callback_data='about')
-            ],[ 
-            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Rexie_Support')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -553,9 +554,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "supp":
         buttons = [[
-            InlineKeyboardButton('𝖦𝖱𝖮𝖴𝖯', url='https://t.me/moviehubgroupp')
+            InlineKeyboardButton('𝖦𝖱𝖮𝖴𝖯', url='https://t.me/Cinimalokam')
             ],[
-            InlineKeyboardButton('𝖢𝖧𝖠𝖭𝖭𝖤𝖫', url='https://t.me/+T-JgtVsu31E0YmY1')
+            InlineKeyboardButton('𝖢𝖧𝖠𝖭𝖭𝖤𝖫', url='https://t.me/CLMlinkz')
             ],[
             InlineKeyboardButton('✖️ 𝖡𝖺𝖼𝗄', callback_data='help')
         ]]
