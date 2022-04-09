@@ -12,7 +12,7 @@ telegraph==1.4.1
 youtube-dl
 youtube_search
 carbonnow==0.0.1
-Pillow>=4.2.0
+Pillow
 googletrans==3.1.0a0
 aiohttp==3.7.4
 requests
