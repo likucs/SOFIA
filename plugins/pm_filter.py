@@ -427,20 +427,18 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('ᴘᴀsᴛᴇ', callback_data='paste'),
             InlineKeyboardButton('ᴘᴜʀɢᴇ', callback_data='purge'),
-            InlineKeyboardButton('ʀᴇsᴛʀɪᴄᴛ', callback_data='restric'),
+            InlineKeyboardButton('ᴘɪɴ', callback_data='pin'),
             InlineKeyboardButton('ᴊsᴏɴ', callback_data='json')
             ],[
+            InlineKeyboardButton('ʀᴇsᴛʀɪᴄᴛ', callback_data='restric'),
             InlineKeyboardButton('sᴇᴀʀᴄʜ', callback_data='search'),
             InlineKeyboardButton('ᴛɢʀᴀᴘʜ', callback_data='tgraph'),
             InlineKeyboardButton('ғᴜɴ', callback_data='fun')
             ],[
-            InlineKeyboardButton('ᴘɪɴ', callback_data='pin')
-            InlineKeyboardButton('ᴄᴏʀᴏɴᴀ', callback_data='corona'),
-            InlineKeyboardButton('sᴛɪᴄᴋᴇʀɪᴅ', callback_data='stickerid')
-            ],[  
             InlineKeyboardButton('ᴛᴛs', callback_data='tts'),
-            InlineKeyboardButton('ᴄᴏᴜɴᴛʀʏ', callback_data='countryinfo')
+            InlineKeyboardButton('ᴄᴏᴜɴᴛʀʏ', callback_data='countryinfo'),
             InlineKeyboardButton('ʏᴛᴠɪᴅ', callback_data='ytvid'),
+            InlineKeyboardButton('sᴛɪᴄᴋᴇʀɪᴅ', callback_data='stickerid')
             ],[
             InlineKeyboardButton('🏡ʜᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('🔰sᴛᴀᴛᴜs', callback_data='stats'),
