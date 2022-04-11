@@ -403,7 +403,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🔍 ꜱᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/CLMlinkz')
             ],[
-            InlineKeyboardButton('⚙️ ʜᴇʟᴘ', callback_data='help'),
+            InlineKeyboardButton('📚 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😎 ᴀʙᴏᴜᴛ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -417,22 +417,34 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('ᴀᴅᴍɪɴ', callback_data='admin'),
             InlineKeyboardButton('ᴏɴᴡᴇʀ', callback_data='onwershiva'),
-            InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛ', callback_data='coct')
+            InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛ', callback_data='coct'),
+            InlineKeyboardButton('ᴀʟɪᴠᴇ', callback_data='alive')
             ],[
             InlineKeyboardButton('ғɪʟᴛᴇʀs', callback_data='auto_manual'),
             InlineKeyboardButton('ɢᴛʀᴀɴs', callback_data='gtrans'),
-            InlineKeyboardButton('ɪɴғᴏ', callback_data='info')
+            InlineKeyboardButton('ɪɴғᴏ', callback_data='info'),
+            InlineKeyboardButton('sᴏɴɢ', callback_data='song')
             ],[
             InlineKeyboardButton('ᴘᴀsᴛᴇ', callback_data='paste'),
             InlineKeyboardButton('ᴘᴜʀɢᴇ', callback_data='purge'),
-            InlineKeyboardButton('ʀᴇsᴛʀɪᴄᴛ', callback_data='restric')
+            InlineKeyboardButton('ʀᴇsᴛʀɪᴄᴛ', callback_data='restric'),
+            InlineKeyboardButton('ᴊsᴏɴ', callback_data='json')
             ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ', callback_data='search'),
             InlineKeyboardButton('ᴛɢʀᴀᴘʜ', callback_data='tgraph'),
             InlineKeyboardButton('ғᴜɴ', callback_data='fun')
             ],[
-            InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('ɴᴇxᴛ', callback_data='rexienext')
+            InlineKeyboardButton('ᴘɪɴ', callback_data='pin')
+            InlineKeyboardButton('ᴄᴏʀᴏɴᴀ', callback_data='corona'),
+            InlineKeyboardButton('sᴛɪᴄᴋᴇʀɪᴅ', callback_data='stickerid')
+            ],[  
+            InlineKeyboardButton('ᴛᴛs', callback_data='tts'),
+            InlineKeyboardButton('ᴄᴏᴜɴᴛʀʏ', callback_data='countryinfo')
+            InlineKeyboardButton('ʏᴛᴠɪᴅ', callback_data='ytvid'),
+            ],[
+            InlineKeyboardButton('🏡ʜᴏᴍᴇ', callback_data='start'),
+            InlineKeyboardButton('🔰sᴛᴀᴛᴜs', callback_data='stats'),
+            InlineKeyboardButton('ᴄʟᴏsᴇ ⛔️', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -443,12 +455,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('𝖲𝗍𝖺𝗍𝗎𝗌', callback_data='stats'),
-            InlineKeyboardButton('𝖲𝗈𝗎𝗋𝖼𝖾', callback_data='source'),
-            InlineKeyboardButton('𝖧𝖾𝗅𝗉', callback_data='help')
+            InlineKeyboardButton('🔰sᴛᴀᴛᴜs', callback_data='stats'),
+            InlineKeyboardButton('📚 ʜᴇʟᴘ', callback_data='help'),
+            InlineKeyboardButton('🏡ʜᴏᴍᴇ', callback_data='start')
             ],[
-            InlineKeyboardButton('𝖧𝗈𝗆𝖾', callback_data='start'),
-            InlineKeyboardButton('𝖢𝗅𝗈𝗌𝖾', callback_data='close_data')
+            InlineKeyboardButton('ᴄʟᴏsᴇ ⛔️', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -474,7 +485,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴊsᴏɴ', callback_data='json')
             ],[
             InlineKeyboardButton('ᴘɪɴ', callback_data='pin'),
-            InlineKeyboardButton('ᴄᴏʀᴏɴᴀ', callback_data='corona'),
+            InlineKeyboardButton('ᴘɪɴ', callback_data='pin')
             InlineKeyboardButton('sᴛɪᴄᴋᴇʀɪᴅ', callback_data='stickerid')
             ],[
             InlineKeyboardButton('ᴛᴛs', callback_data='tts'),
