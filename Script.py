@@ -3,10 +3,10 @@ class script(object):
 
 <b>ᴍʏ ɴᴀᴍᴇ ɪꜱ</b> <a href='https://t.me/GTSpidermanrobot'><b>ꜱᴘɪᴅᴇʀᴍᴀɴ</b></a> <b>ᴀ ꜱᴍᴀʀᴛ ʀᴏʙᴏᴛ ᴡɪᴛʜ ᴍᴀɴʏ ᴀᴍᴀᴢɪɴɢ ꜰᴇᴀᴛᴜʀᴇꜱ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏɪᴠᴇꜱ & ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ, ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀꜱ ᴀᴅᴍɪɴ ᴀɴᴅ ᴇɴᴊᴏʏ....🥰</b>
 """
-    HELP_TXT = """<b>HEY {} DUDE 🙋‍♂️
-📚 𝖢ᴏᴍᴍᴀɴᴅ ʜᴇʟᴘ 📚</b>"""
+    HELP_TXT = """<b>ʜᴇʟʟᴏ {} ᴅᴜᴅᴇ 🙋‍♂️
+🚩 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍᴏᴅᴜʟᴇs ʜᴇʟᴘ</b>"""
     ABOUT_TXT = """
-<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href='https://t.me/MH_elonmusk_bot'>𝖤ʟᴏɴ 𝖬ᴜsᴋ.</a>
+<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href='https://t.me/GTSpidermanrobot'>Sᴘɪᴅᴇʀᴍᴀɴ.</a>
 
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/'>ᴘʏᴛʜᴏɴ</a>
 
@@ -16,11 +16,11 @@ class script(object):
 
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/GTHero'>ɢᴛ ᠰ ʜᴇʀᴏ</a>
 
-💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://t.me/kgf_2_movie_r'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://t.me/GTSpidermanrobot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/Cinimalokham'>ꜱᴘɪᴅᴇʀᴍᴀɴ sᴜᴘᴘᴏʀᴛ</a>
 
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/MovieHubOtt'>ᴍʜ ᴜᴘᴅᴀᴛᴇs</a>
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/CLMlinkz'>ᴄʟᴍ ᴜᴘᴅᴀᴛᴇs</a>
 \n\n🔖 𝑸𝒖𝒐𝒕𝒆 : <code>ആരും പേടിക്കേണ്ട എല്ലാവർക്കും കിട്ടും</code></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 <b>𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖶𝖺𝗌 𝖬𝖺𝗄𝖾𝖽 𝖳𝖺𝗄𝗂𝗇𝗀 𝖲𝗈𝗆𝖺𝗇𝗒 𝖱𝖾𝗉𝗈𝗌 𝖮𝖿 𝖮𝗍𝗁𝖾𝗋 𝖪𝗂𝗇𝖽 𝖡𝗈𝗍𝗌
@@ -100,8 +100,8 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
     REXIENEXT_TXT = """<b>📚 ᴄᴏᴍᴍᴀɴᴅs - 2 📚</b>"""
     ONWERSHIVA_TXT = """"⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 𝖲ʜɪᴠᴀ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @OGGY123kph
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ɢᴛ ᠰ ʜᴇʀᴏ
+• ᴜꜱᴇʀɴᴀᴍᴇ : @GTHero
 “ 𝐷ᴏ 𝑁ᴏᴛ 𝑤ᴀsᴛᴇ 𝑇ɪᴍᴇ ᴏɴ 𝑈ɴɴᴇᴄᴇssᴀʀʏ 𝑇ʜɪɴɢs ᴏɴʟʏ ɪғ ɪᴛ ᴅᴏᴇs 𝑁ᴏᴛ 𝐻ᴇʟᴘ 𝑌ᴏᴜ😉. ”"""
 
     BUTTON_TXT = """Help: <b>Buttons</b>
@@ -302,7 +302,7 @@ __🗣 In Order To Get The Movie Requested By You in Our Groups, You Will Have T
 🗣️ ᴀᴅᴅᴇᴅ ʙʏ - {}
 """
 
-    LOG_TEXT_P = """<b>ʙᴏᴛ - ᴇʟᴏɴ ᴍᴜsᴋ 🔰
+    LOG_TEXT_P = """<b>ʙᴏᴛ - Sᴘɪᴅᴇʀᴍᴀɴ 🔰
 
 👤 ɴᴇᴡ ᴜsᴇʀ</b>
 🔖 ɪᴅ- <code>{}</code>
