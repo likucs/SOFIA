@@ -1,12 +1,12 @@
 class script(object):
     START_TXT = """<b>ʜᴇʟʟᴏ {}</b> 
 
-<b>ᴍʏ ɴᴀᴍᴇ ɪꜱ</b> <a href='https://t.me/GTSpidermanrobot'><b>ꜱᴘɪᴅᴇʀᴍᴀɴ</b></a> <b>ᴀ ꜱᴍᴀʀᴛ ʀᴏʙᴏᴛ ᴡɪᴛʜ ᴍᴀɴʏ ᴀᴍᴀᴢɪɴɢ ꜰᴇᴀᴛᴜʀᴇꜱ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏɪᴠᴇꜱ & ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ, ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀꜱ ᴀᴅᴍɪɴ ᴀɴᴅ ᴇɴᴊᴏʏ....🥰</b>
+<b>ᴍʏ ɴᴀᴍᴇ ɪꜱ</b> <a href='https://t.me/soofia18_bot'><b>sᴏғɪᴀ</b></a> <b>ᴀ ꜱᴍᴀʀᴛ ʀᴏʙᴏᴛ ᴡɪᴛʜ ᴍᴀɴʏ ᴀᴍᴀᴢɪɴɢ ꜰᴇᴀᴛᴜʀᴇꜱ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏɪᴠᴇꜱ & ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ, ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀꜱ ᴀᴅᴍɪɴ ᴀɴᴅ ᴇɴᴊᴏʏ....🥰</b>
 """
     HELP_TXT = """<b>ʜᴇʟʟᴏ {} ᴅᴜᴅᴇ 🙋‍♂️
 🚩 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍᴏᴅᴜʟᴇs ʜᴇʟᴘ</b>"""
     ABOUT_TXT = """
-<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href='https://t.me/GTSpidermanrobot'>Sᴘɪᴅᴇʀᴍᴀɴ.</a>
+<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href='https://t.me/soofia18_bot'>Sᴏғɪᴀ.</a>
 
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/'>ᴘʏᴛʜᴏɴ</a>
 
@@ -14,13 +14,13 @@ class script(object):
 
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href='http://heroku.com/'>ʜᴇʀᴏᴋᴜ</a>
 
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/GTHero'>ɢᴛ ᠰ ʜᴇʀᴏ</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Hey_Its_Me_Lucifer'>➳ᴹᴿメ ʟᴜᴄɪ፝֟ꜰᴇʀ</a>
 
-💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://t.me/GTSpidermanrobot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://t.me/soofia18_bot'>Sᴏғɪᴀ</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/Cinimalokham'>ꜱᴘɪᴅᴇʀᴍᴀɴ sᴜᴘᴘᴏʀᴛ</a>
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/movie_sector'>Mᴏᴠɪᴇs Sᴇᴄᴛᴏʀ</a>
 
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/CLMlinkz'>ᴄʟᴍ ᴜᴘᴅᴀᴛᴇs</a>
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/MovieSector_UPDATES'>Mᴏᴠɪᴇs Sᴇᴄᴛᴏʀ</a>
 \n\n🔖 𝑸𝒖𝒐𝒕𝒆 : <code>ആരും പേടിക്കേണ്ട എല്ലാവർക്കും കിട്ടും</code></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 <b>𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖶𝖺𝗌 𝖬𝖺𝗄𝖾𝖽 𝖳𝖺𝗄𝗂𝗇𝗀 𝖲𝗈𝗆𝖺𝗇𝗒 𝖱𝖾𝗉𝗈𝗌 𝖮𝖿 𝖮𝗍𝗁𝖾𝗋 𝖪𝗂𝗇𝖽 𝖡𝗈𝗍𝗌
@@ -98,11 +98,15 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 • /delall - delete the whole filters in a chat (chat owner only)."""
 
     REXIENEXT_TXT = """<b>📚 ᴄᴏᴍᴍᴀɴᴅs - 2 📚</b>"""
-    ONWERSHIVA_TXT = """"⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
+    ONWERSHIVA_TXT = """<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ɢᴛ ᠰ ʜᴇʀᴏ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @GTHero
-“ 𝐷ᴏ 𝑁ᴏᴛ 𝑤ᴀsᴛᴇ 𝑇ɪᴍᴇ ᴏɴ 𝑈ɴɴᴇᴄᴇssᴀʀʏ 𝑇ʜɪɴɢs ᴏɴʟʏ ɪғ ɪᴛ ᴅᴏᴇs 𝑁ᴏᴛ 𝐻ᴇʟᴘ 𝑌ᴏᴜ😉. ”"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ➳ᴹᴿメ ʟᴜᴄɪ፝֟ꜰᴇʀ
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Hey_Its_Me_Lucifer
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/Hey_Its_Me_Lucifer>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+⍟───[ 💕 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 💕 ]───⍟
+• ꜰᴜʟʟ ɴᴀᴍᴇ :  ͥ ͣ ͫ❥ℭ𝐒 ‣ ᏂᎧᏇᏝ⚡
+• ᴜꜱᴇʀɴᴀᴍᴇ : @iAmLiKu1
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/iAmLiKu1>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
